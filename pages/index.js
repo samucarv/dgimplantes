@@ -117,9 +117,9 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
+          {' '}
           <span className={styles.logo}>
-            <Image src="/dgimplantes.png" alt="Dg Logo" width={120} height={25} />
+            <Image src="/dgimplantes.png" alt="Dg Logo" width={250} height={100} />
           </span>
         </a>
       </footer>
