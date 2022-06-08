@@ -16,9 +16,13 @@ export default function Home() {
       <br></br>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          Banco de Horas <a href="https://nextjs.org">DG IMPLANTES</a>
+      
+        <h1>
+        <Image src="/dgimplantes.png" alt="Dg Logo" width={180} height={100} />
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Controle de Banco de Horas
         </h1>
+
+        <hr></hr>
         <table class="table table-striped text-center table-responsive">
   <thead>
     <tr>
@@ -111,18 +115,7 @@ export default function Home() {
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
       </main>
 
-      <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          {' '}
-          <span className={styles.logo}>
-            <Image src="/dgimplantes.png" alt="Dg Logo" width={250} height={100} />
-          </span>
-        </a>
-      </footer>
+      
     </div>
   )
 }
