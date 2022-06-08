@@ -19,7 +19,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Banco de Horas <a href="https://nextjs.org">DG IMPLANTES</a>
         </h1>
-        <table class="table">
+        <table class="table table-striped" >
   <thead>
     <tr>
       <th scope="col">Nomes</th>
@@ -33,7 +33,7 @@ export default function Home() {
       <th scope="col">Total Acumulado</th>
     </tr>
   </thead>
-  <tbody class="table-striped">
+  <tbody>
     <tr>
       <th scope="row">GABRIELY</th>
       <td class="text-danger">-44:02</td>
