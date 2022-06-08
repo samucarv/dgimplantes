@@ -19,7 +19,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Banco de Horas <a href="https://nextjs.org">DG IMPLANTES</a>
         </h1>
-        <table class="table-dark">
+        <table class="table-striped">
   <thead>
     <tr>
       <th scope="col">Nomes</th>
