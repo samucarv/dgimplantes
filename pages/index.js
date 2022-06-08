@@ -47,61 +47,61 @@ export default function Home() {
     </tr>
     <tr>
       <th scope="row" class="text-start">LUCIANA</th>
+      <td>19:18</td>
+      <td>11:10</td>
+      <td>08:25</td>
+      <td>02:34</td>
+      <td>05:07</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td> 
+      <td>46:34</td> 
     </tr>
     <tr>
       <th scope="row" class="text-start">MONICA</th>
       <td>00:00</td>
+      <td class="text-danger">-12:32</td>
+      <td>03:33</td>
+      <td class="text-danger">-07:54</td>
+      <td>03:27</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
+      <td class="text-danger">-13:26</td>
     </tr>
 
     <tr>
       <th scope="row" class="text-start">FABIOLA</th>
+      <td class="text-danger">-05:01</td>
+      <td>06:10</td>
+      <td>00:28</td>
+      <td class="text-danger">-02:58</td>
+      <td class="text-danger">-05:08</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
+      <td class="text-danger">-06:29</td>
     </tr>
 
     <tr>
       <th scope="row" class="text-start">FERNANDA</th>
+      <td class="text-danger">-216:32</td>
+      <td class="text-danger">-14:40</td>
+      <td class="text-danger">-17:09</td>
+      <td class="text-danger">-19:17</td>
+      <td class="text-danger">-23:32</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
+      <td class="text-danger">-291:10</td>
     </tr>
 
     <tr>
       <th scope="row" class="text-start">ANA KAROLYNE</th>
+      <td class="text-danger">-62:18</td>
+      <td>23:09</td>
+      <td class="text-danger">-03:53</td>
+      <td>09:02</td>
+      <td>04:06</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
+      <td class="text-danger">-29:54</td>
     </tr>
 
   </tbody>
