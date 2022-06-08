@@ -23,53 +23,98 @@ export default function Home() {
   <thead>
     <tr>
       <th scope="col">Nomes</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
+      <th scope="col">Banco de Horas</th>
+      <th scope="col">Janeiro</th>
+      <th scope="col">Fevereiro</th>
+      <th scope="col">Marco</th>
+      <th scope="col">Abril</th>
+      <th scope="col">Maio</th>
+      <th scope="col">Junho</th>
+      <th scope="col">Total Acumulado</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th scope="row">Gabriely Padovani Cruvinel dos Santos</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
+      <td class="table-danger">03:58</td>
+      <td>00:38</td>
+      <td>09:58</td>
+      <td>21:07</td>
+      <td>09:26</td>
+      <td>00:00</td>
+      <td>00:00/td>
+      <td class="table-danger">21:07</td>    
     </tr>
     <tr>
       <th scope="row">Luciana Pereira Vieira</th>
-      <td>Jacob</td>
-      <td>Thornton</td>
-      <td>@fat</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td> 
     </tr>
     <tr>
       <th scope="row">Monica Alves da Silva Santos</th>
-      <td colspan="2">Larry the Bird</td>
-      <td>@twitter</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
     </tr>
 
     <tr>
       <th scope="row">Fabiola Faria Bueno</th>
-      <td colspan="2">Larry the Bird</td>
-      <td>@twitter</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
     </tr>
 
     <tr>
       <th scope="row">Monica Alves da Silva Santos</th>
-      <td colspan="2">Larry the Bird</td>
-      <td>@twitter</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
     </tr>
 
     <tr>
       <th scope="row">Fernanda de Araujo Silva</th>
-      <td colspan="2">Larry the Bird</td>
-      <td>@twitter</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
     </tr>
 
 
     <tr>
       <th scope="row">Ana Karolyne Cipriano Lemes</th>
-      <td colspan="2">Larry the Bird</td>
-      <td>@twitter</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
     </tr>
 
   </tbody>
