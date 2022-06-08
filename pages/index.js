@@ -23,7 +23,7 @@ export default function Home() {
         </h1>
 
         <hr></hr>
-        <table class="table table-striped text-center table-responsive">
+        <table class="table table-striped text-center table-dark">
   <thead>
     <tr>
       <th scope="col" class="text-start">Nomes</th>
