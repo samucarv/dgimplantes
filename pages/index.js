@@ -19,7 +19,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Banco de Horas <a href="https://nextjs.org">DG IMPLANTES</a>
         </h1>
-        <table class="table-responsive">
+        <table class="table-dark">
   <thead>
     <tr>
       <th scope="col">Nomes</th>
@@ -35,7 +35,7 @@ export default function Home() {
   </thead>
   <tbody>
     <tr>
-      <th scope="row">Gabriely Padovani Cruvinel dos Santos</th>
+      <th scope="row">GABRIELY</th>
       <td class="text-danger">-44:02</td>
       <td>00:38</td>
       <td>09:58</td>
@@ -46,7 +46,7 @@ export default function Home() {
       <td class="text-danger">-50:53</td>    
     </tr>
     <tr>
-      <th scope="row">Luciana Pereira Vieira</th>
+      <th scope="row">LUCIANA</th>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
@@ -57,7 +57,7 @@ export default function Home() {
       <td>00:00</td> 
     </tr>
     <tr>
-      <th scope="row">Monica Alves da Silva Santos</th>
+      <th scope="row">MONICA</th>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
@@ -69,7 +69,7 @@ export default function Home() {
     </tr>
 
     <tr>
-      <th scope="row">Fabiola Faria Bueno</th>
+      <th scope="row">FABIOLA</th>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
@@ -81,7 +81,7 @@ export default function Home() {
     </tr>
 
     <tr>
-      <th scope="row">Monica Alves da Silva Santos</th>
+      <th scope="row">FERNANDA</th>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
@@ -93,20 +93,7 @@ export default function Home() {
     </tr>
 
     <tr>
-      <th scope="row">Fernanda de Araujo Silva</th>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-    </tr>
-
-
-    <tr>
-      <th scope="row">Ana Karolyne Cipriano Lemes</th>
+      <th scope="row">ANA KAROLYNE</th>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
