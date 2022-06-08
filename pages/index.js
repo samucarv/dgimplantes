@@ -22,7 +22,7 @@ export default function Home() {
         <table class="table table-striped text-center">
   <thead>
     <tr>
-      <th scope="col">Nomes</th>
+      <th scope="col" class="text-start">Nomes</th>
       <th scope="col">Banco de Horas</th>
       <th scope="col">Janeiro</th>
       <th scope="col">Fevereiro</th>
@@ -35,7 +35,7 @@ export default function Home() {
   </thead>
   <tbody>
     <tr>
-      <th scope="row">GABRIELY</th>
+      <th scope="row" class="text-start">GABRIELY</th>
       <td class="text-danger">-44:02</td>
       <td>00:38</td>
       <td>09:58</td>
@@ -46,7 +46,7 @@ export default function Home() {
       <td class="text-danger">-50:53</td>    
     </tr>
     <tr>
-      <th scope="row">LUCIANA</th>
+      <th scope="row" class="text-start">LUCIANA</th>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
@@ -57,7 +57,7 @@ export default function Home() {
       <td>00:00</td> 
     </tr>
     <tr>
-      <th scope="row">MONICA</th>
+      <th scope="row" class="text-start">MONICA</th>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
@@ -69,7 +69,7 @@ export default function Home() {
     </tr>
 
     <tr>
-      <th scope="row">FABIOLA</th>
+      <th scope="row" class="text-start">FABIOLA</th>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
@@ -81,7 +81,7 @@ export default function Home() {
     </tr>
 
     <tr>
-      <th scope="row">FERNANDA</th>
+      <th scope="row" class="text-start">FERNANDA</th>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
@@ -93,7 +93,7 @@ export default function Home() {
     </tr>
 
     <tr>
-      <th scope="row">ANA KAROLYNE</th>
+      <th scope="row" class="text-start">ANA KAROLYNE</th>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
