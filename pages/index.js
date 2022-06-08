@@ -119,7 +119,7 @@ export default function Home() {
         >
           Powered by{' '}
           <span className={styles.logo}>
-            <Image src="/dgimplantes.png" alt="Dg Logo"/>
+            <Image src="/dgimplantes.png" alt="Dg Logo" width={120} height={25} />
           </span>
         </a>
       </footer>
