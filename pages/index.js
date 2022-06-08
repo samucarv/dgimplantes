@@ -19,7 +19,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Banco de Horas <a href="https://nextjs.org">DG IMPLANTES</a>
         </h1>
-        <table class="table">
+        <table class="table-responsive">
   <thead>
     <tr>
       <th scope="col">Nomes</th>
@@ -36,14 +36,14 @@ export default function Home() {
   <tbody>
     <tr>
       <th scope="row">Gabriely Padovani Cruvinel dos Santos</th>
-      <td class="table-danger">03:58</td>
+      <td class="text-danger">-44:02</td>
       <td>00:38</td>
       <td>09:58</td>
-      <td>21:07</td>
-      <td>09:26</td>
+      <td class="text-danger">-02:53</td>
+      <td class="text-danger">-14:34</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td class="table-danger">21:07</td>    
+      <td class="text-danger">-50:53</td>    
     </tr>
     <tr>
       <th scope="row">Luciana Pereira Vieira</th>
