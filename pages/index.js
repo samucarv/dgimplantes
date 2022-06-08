@@ -22,7 +22,7 @@ export default function Home() {
         <table class="table">
   <thead>
     <tr>
-      <th scope="col">#</th>
+      <th scope="col">Nomes</th>
       <th scope="col">First</th>
       <th scope="col">Last</th>
       <th scope="col">Handle</th>
@@ -30,22 +30,48 @@ export default function Home() {
   </thead>
   <tbody>
     <tr>
-      <th scope="row">1</th>
+      <th scope="row">Gabriely Padovani Cruvinel dos Santos</th>
       <td>Mark</td>
       <td>Otto</td>
       <td>@mdo</td>
     </tr>
     <tr>
-      <th scope="row">2</th>
+      <th scope="row">Luciana Pereira Vieira</th>
       <td>Jacob</td>
       <td>Thornton</td>
       <td>@fat</td>
     </tr>
     <tr>
-      <th scope="row">3</th>
+      <th scope="row">Monica Alves da Silva Santos</th>
       <td colspan="2">Larry the Bird</td>
       <td>@twitter</td>
     </tr>
+
+    <tr>
+      <th scope="row">Fabiola Faria Bueno</th>
+      <td colspan="2">Larry the Bird</td>
+      <td>@twitter</td>
+    </tr>
+
+    <tr>
+      <th scope="row">Monica Alves da Silva Santos</th>
+      <td colspan="2">Larry the Bird</td>
+      <td>@twitter</td>
+    </tr>
+
+    <tr>
+      <th scope="row">Fernanda de Araujo Silva</th>
+      <td colspan="2">Larry the Bird</td>
+      <td>@twitter</td>
+    </tr>
+
+
+    <tr>
+      <th scope="row">Ana Karolyne Cipriano Lemes</th>
+      <td colspan="2">Larry the Bird</td>
+      <td>@twitter</td>
+    </tr>
+
   </tbody>
 </table>
 
