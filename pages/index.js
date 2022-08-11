@@ -44,7 +44,7 @@ export default function Home() {
     <tr>
       <th scope="row" class="text-start">LUCIANA</th>
       <td class="text-success">61:37</td>
-      <td>12:02</td>
+      <td class="text-success">12:02</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
@@ -55,7 +55,7 @@ export default function Home() {
     <tr>
       <th scope="row" class="text-start">MONICA</th>
       <td class="text-danger">-01:23</td>
-      <td>09:16</td>
+      <td class="text-success">09:16</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
@@ -91,7 +91,7 @@ export default function Home() {
     <tr>
       <th scope="row" class="text-start">ANA KAROLYNE</th>
       <td class="text-danger">-01:00</td>
-      <td>04:16</td>
+      <td class="text-success">04:16</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
