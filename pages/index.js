@@ -43,14 +43,14 @@ export default function Home() {
   <tbody>
     <tr>
       <th scope="row" class="text-start">LUCIANA</th>
-      <td>61:37</td>
+      <td class="text-success">61:37</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td class="text-success">00:00</td> 
+      <td>00:00</td> 
     </tr>
     <tr>
       <th scope="row" class="text-start">MONICA</th>
