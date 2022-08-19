@@ -100,6 +100,18 @@ export default function Home() {
       <td class="text-success">03:16</td>
       </tr>
 
+      <tr>
+      <th scope="row" class="text-start">THAISSA MARIA DA SILVA</th>
+      <td>00:00</td>
+      <td class="text-success">06:50</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td class="text-success">06:50</td>
+      </tr>
+
   </tbody>
 </table>
 
