@@ -101,7 +101,7 @@ export default function Home() {
       </tr>
 
       <tr>
-      <th scope="row" class="text-start">IVANILDE ALVES DOS SANTOS FRANCISCO</th>
+      <th scope="row" class="text-start">IVANILDE</th>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
@@ -113,7 +113,7 @@ export default function Home() {
       </tr>
 
       <tr>
-      <th scope="row" class="text-start">ERIKA TAINA GONÇALVES DO NASCIMENTO</th>
+      <th scope="row" class="text-start">ERIKA</th>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
