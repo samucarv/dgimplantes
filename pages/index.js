@@ -50,7 +50,7 @@ export default function Home() {
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td class="text-success">72:48</td> 
+      <td class="text-success">72:48 (AUDITORIA)</td> 
     </tr>
     <tr>
       <th scope="row" class="text-start">MONICA</th>
