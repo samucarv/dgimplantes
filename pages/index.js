@@ -45,114 +45,125 @@ export default function Home() {
       <th scope="row" class="text-start">LUCIANA</th>
       <td class="text-success">06:53</td>
       <td class="text-success">14:33</td>
+      <td class="text-success">08:57</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-success">26:26</td> 
+      <td class="text-success">35:23</td> 
     </tr>
     <tr>
       <th scope="row" class="text-start">MONICA</th>
       <td class="text-danger">-10:03</td>
       <td class="text-success">06:02</td>
+      <td class="text-success">14:53</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-danger">-04:01</td> 
+      <td class="text-success">10:52</td> 
         </tr>
 
     <tr>
       <th scope="row" class="text-start">FABIOLA</th>
       <td class="text-danger">-49:38</td>
       <td class="text-danger">-08:09</td>
+      <td class="text-danger">-05:20</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-danger">-52:47</td>
+      <td class="text-danger">-58:07</td>
       </tr>
 
     <tr>
       <th scope="row" class="text-start">FERNANDA</th>
       <td class="text-danger">-440:18</td>
       <td class="text-danger">-13:03</td>
+      <td class="text-danger">-16:22</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-danger">-453:21</td>
+      <td class="text-danger">-469:43</td>
        </tr>
 
     <tr>
       <th scope="row" class="text-start">ANA KAROLYNE</th>
       <td class="text-danger">-13:42</td>
       <td class="text-success">06:07</td>
+      <td class="text-success">01:33</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-danger">-02:35</td>
+      <td class="text-danger">-01:02</td>
       </tr>
 
       <tr>
       <th scope="row" class="text-start">IVANILDE</th>
       <td class="text-success">86:17</td>
       <td class="text-success">29:36</td>
+      <td class="text-success">33:51</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-success">115:53</td>
+      <td class="text-success">149:44</td>
       </tr>
 
       <tr>
       <th scope="row" class="text-start">ERIKA TAINA</th>
       <td class="text-success">03:32</td>
       <td class="text-success">00:31</td>
+      <td class="text-danger">-05:38</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-success">04:03</td>
+      <td class="text-danger">-01:35</td>
       </tr>
 
       <tr>
       <th scope="row" class="text-start">JULIA</th>
       <td class="text-danger">-04:40</td>
       <td class="text-success">08:48</td>
+      <td class="text-success">00:26</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-success">09:08</td>
+      <td class="text-success">09:34</td>
       </tr>
 
       <tr>
       <th scope="row" class="text-start">LAILA</th>
       <td class="text-success">01:20</td>
       <td class="text-success">11:36</td>
+      <td class="text-success">07:14</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-success">17:56</td>
+      <td class="text-success">25:10</td>
       </tr>
 
+      <tr>
+      <th scope="row" class="text-start">MARIA DAS DORES</th>
+      <td class="text-success">00:00</td>
+      <td class="text-success">00:00</td>
+      <td class="text-success">05:48</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td>00:00</td>
+      <td class="text-success">05:48</td>
+      </tr>
 
   </tbody>
 </table>
 
-<p>Atualizado em 10/02/2023</p>
+<p>Atualizado em 20/03/2023</p>
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
       </main>
