@@ -46,22 +46,22 @@ export default function Home() {
       <td class="text-success">06:53</td>
       <td class="text-success">14:33</td>
       <td class="text-success">08:57</td>
+      <td class="text-success">15:15</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-success">35:23</td> 
+      <td class="text-success">50:38</td> 
     </tr>
     <tr>
       <th scope="row" class="text-start">MONICA</th>
       <td class="text-danger">-10:03</td>
       <td class="text-success">06:02</td>
       <td class="text-success">14:53</td>
+      <td class="text-success">18:46</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-success">10:52</td> 
+      <td class="text-success">29:38</td> 
         </tr>
 
     <tr>
@@ -69,35 +69,23 @@ export default function Home() {
       <td class="text-danger">-49:38</td>
       <td class="text-danger">-08:09</td>
       <td class="text-danger">-05:20</td>
+      <td class="text-success">01:19</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-danger">-58:07</td>
+      <td class="text-danger">-56:48</td>
       </tr>
-
-    <tr>
-      <th scope="row" class="text-start">FERNANDA</th>
-      <td class="text-danger">-440:18</td>
-      <td class="text-danger">-13:03</td>
-      <td class="text-danger">-16:22</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-danger">-469:43</td>
-       </tr>
 
     <tr>
       <th scope="row" class="text-start">ANA KAROLYNE</th>
       <td class="text-danger">-13:42</td>
       <td class="text-success">06:07</td>
       <td class="text-success">01:33</td>
+      <td class="text-danger">-06:48</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-danger">-01:02</td>
+      <td class="text-danger">-07:50</td>
       </tr>
 
       <tr>
@@ -105,11 +93,11 @@ export default function Home() {
       <td class="text-success">86:17</td>
       <td class="text-success">29:36</td>
       <td class="text-success">33:51</td>
+      <td class="text-success">44:51</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-success">149:44</td>
+      <td class="text-success">194:35</td>
       </tr>
 
       <tr>
@@ -117,11 +105,11 @@ export default function Home() {
       <td class="text-success">03:32</td>
       <td class="text-success">00:31</td>
       <td class="text-danger">-05:38</td>
+      <td class="text-success">03:19</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-danger">-01:35</td>
+      <td class="text-success">-01:44</td>
       </tr>
 
       <tr>
@@ -129,23 +117,11 @@ export default function Home() {
       <td class="text-danger">-04:40</td>
       <td class="text-success">08:48</td>
       <td class="text-success">00:26</td>
+      <td class="text-success">00:32</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-success">09:34</td>
-      </tr>
-
-      <tr>
-      <th scope="row" class="text-start">LAILA</th>
-      <td class="text-success">01:20</td>
-      <td class="text-success">11:36</td>
-      <td class="text-success">07:14</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-success">25:10</td>
+      <td class="text-success">10:06</td>
       </tr>
 
       <tr>
@@ -153,17 +129,17 @@ export default function Home() {
       <td class="text-success">00:00</td>
       <td class="text-success">00:00</td>
       <td class="text-success">05:48</td>
+      <td class="text-success">22:08</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-success">05:48</td>
+      <td class="text-success">27:56</td>
       </tr>
 
   </tbody>
 </table>
 
-<p>Atualizado em 20/03/2023</p>
+<p>Atualizado em 13/04/2023</p>
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
       </main>
