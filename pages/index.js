@@ -78,7 +78,7 @@ export default function Home() {
 
     <tr>
       <th scope="row" class="text-start">ANA KAROLYNE</th>
-      <td class="text-sucess">01:12</td>
+      <td class="text-success">01:12</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
