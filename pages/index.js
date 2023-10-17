@@ -57,7 +57,7 @@ export default function Home() {
       <td class="text-danger">-55:46</td>
       <td class="text-danger">-03:01</td>
       <td class="text-success">07:05</td>
-      <td class="text-success">05:06</td
+      <td class="text-success">05:06</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
