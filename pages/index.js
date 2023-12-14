@@ -48,9 +48,9 @@ export default function Home() {
       <td class="text-danger">-62:43</td>
       <td class="text-danger">-45:49</td>
       <td class="text-success">10:42</td>
+      <td class="text-success">02:03</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-danger">-77:51</td> 
+      <td class="text-danger">-75:48</td> 
     </tr>
     <tr>
       <th scope="row" class="text-start">MONICA</th>
@@ -59,9 +59,9 @@ export default function Home() {
       <td class="text-success">07:05</td>
       <td class="text-success">05:06</td>
       <td class="text-success">03:44</td>
+      <td class="text-success">13:19</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-danger">-42:52</td> 
+      <td class="text-danger">-29:33</td> 
         </tr>
 
     <tr>
@@ -71,9 +71,9 @@ export default function Home() {
       <td class="text-success">08:17</td>
       <td class="text-danger">-01:59</td>
       <td class="text-danger">-01:04</td>
+      <td class="text-success">03:21</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-danger">-75:09</td>
+      <td class="text-danger">-71:48</td>
       </tr>
 
     <tr>
@@ -83,9 +83,9 @@ export default function Home() {
       <td class="text-danger">-04:25</td>
       <td class="text-success">03:47</td>
       <td class="text-success">00:13</td>
+      <td class="text-success">00:38</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-success">08:14</td>
+      <td class="text-success">08:52</td>
       </tr>
 
       <tr>
@@ -95,9 +95,9 @@ export default function Home() {
       <td class="text-success">35:54</td>
       <td class="text-danger">-17:24</td>
       <td class="text-success">17:57</td>
+      <td class="text-success">25:49</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-danger">-02:20</td>
+      <td class="text-success">23:29</td>
       </tr>
 
       <tr>
@@ -107,9 +107,9 @@ export default function Home() {
       <td class="text-success">11:06</td>
       <td class="text-success">08:47</td>
       <td class="text-success">03:21</td>
+      <td class="text-success">01:24</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-success">28:53</td>
+      <td class="text-success">30:17</td>
       </tr>
 
       <tr>
@@ -119,9 +119,9 @@ export default function Home() {
       <td class="text-danger">-03:08</td>
       <td class="text-success">01:42</td>
       <td class="text-success">03:37</td>
+      <td class="text-danger">-01:36</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-success">09:11</td>
+      <td class="text-success">07:35</td>
       </tr>
 
       <tr>
@@ -131,21 +131,9 @@ export default function Home() {
       <td class="text-success">10:01</td>
       <td class="text-success">03:58</td>
       <td class="text-success">01:22</td>
+      <td class="text-success">08:23</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-success">28:02</td>
-      </tr>
-
-      <tr>
-      <th scope="row" class="text-start">FLAVIA RAYSSA</th>
-      <td class="text-warning">00:00</td>
-      <td class="text-danger">-35:49</td>
-      <td class="text-danger">-23:38</td>
-      <td class="text-success">01:42</td>
-      <td class="text-danger">-20:39</td>
-      <td> 00:00</td>
-      <td> 00:00</td>
-      <td class="text-danger">-78:24</td>
+      <td class="text-success">36:23</td>
       </tr>
 
       <tr>
@@ -155,9 +143,9 @@ export default function Home() {
       <td class="text-danger">-00:59</td>
       <td class="text-success">00:47</td>
       <td class="text-danger">-01:52</td>
+      <td class="text-success">00:54</td>
       <td> 00:00</td>
-      <td> 00:00</td>
-      <td class="text-danger">-04:31</td>
+      <td class="text-danger">-03:37</td>
       </tr>
 
 
@@ -166,7 +154,7 @@ export default function Home() {
   </tbody>
 </table>
 
-<p>Atualizado em 24/11/2023</p>
+<p>Atualizado em 14/12/2023</p>
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
       </main>
