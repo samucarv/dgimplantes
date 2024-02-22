@@ -97,7 +97,7 @@ export default function Home() {
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td class="text-success">84:09</td>
+      <td class="text-success">04:09</td>
       </tr>
 
       <tr>
@@ -142,7 +142,7 @@ export default function Home() {
   </tbody>
 </table>
 
-<p>Atualizado em 09/02/2024</p>
+<p>Atualizado em 22/02/2024</p>
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
       </main>
