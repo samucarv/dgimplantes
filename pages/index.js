@@ -57,11 +57,11 @@ export default function Home() {
       <td class="text-danger">-14:00</td>
       <td class="text-success">08:11</td>
       <td class="text-success">27:53</td>
+      <td class="text-success">10:17</td>
       <td>00:00</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-success">22:04</td> 
+      <td class="text-success">43:49</td> 
         </tr>
 
     <tr>
@@ -70,22 +70,10 @@ export default function Home() {
       <td class="text-danger">-05:00</td>
       <td class="text-success">07:52</td>
       <td class="text-danger">-05:12</td>
+      <td class="text-success">01:38</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-danger">-67:17</td>
-      </tr>
-
-    <tr>
-      <th scope="row" class="text-start">ANA KAROLYNE</th>
-      <td class="text-success">09:07</td>
-      <td class="text-success">00:31</td>
-      <td class="text-danger">-04:30</td>
-      <td class="text-danger">-02:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-success">03:56</td>
+      <td class="text-danger">-65:39</td>
       </tr>
 
       <tr>
@@ -94,10 +82,10 @@ export default function Home() {
       <td class="text-success">23:06</td>
       <td class="text-success">26:28</td>
       <td class="text-success">35:22</td>
+      <td class="text-success">14:15</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-success">65:59</td>
+      <td class="text-success">80:14</td>
       </tr>
 
       <tr>
@@ -106,10 +94,10 @@ export default function Home() {
       <td class="text-danger">-01:54</td>
       <td class="text-success">02:43</td>
       <td class="text-danger">-03:40</td>
+      <td class="text-success">07:25</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-success">26:46</td>
+      <td class="text-success">34:11</td>
       </tr>
 
       <tr>
@@ -118,10 +106,10 @@ export default function Home() {
       <td class="text-danger">-02:38</td>
       <td class="text-success">10:40</td>
       <td class="text-success">04:53</td>
+      <td class="text-success">07:42</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-success">06:33</td>
+      <td class="text-success">14:15</td>
       </tr>
 
       <tr>
@@ -130,10 +118,10 @@ export default function Home() {
       <td class="text-danger">-00:02</td>
       <td class="text-danger">-09:13</td>
       <td class="text-success">04:12</td>
+      <td class="text-danger">-08:46</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-danger">-08:43</td>
+      <td class="text-danger">-17:29</td>
       </tr>
 
       <tr>
@@ -141,11 +129,11 @@ export default function Home() {
       <td>00:00</td>
       <td>00:00</td>
       <td class="text-success">14:40</td>
+      <td class="text-danger">-01:04</td>
+      <td class="text-success">13:13</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-success">14:40</td>
+      <td class="text-success">26:49</td>
       </tr>
 
       <tr>
@@ -154,30 +142,16 @@ export default function Home() {
       <td>00:00</td>
       <td class="text-success">05:50</td>
       <td class="text-success">05:35</td>
+      <td class="text-success">06:27</td>
       <td>00:00</td>
       <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-success">11:25</td>
+      <td class="text-success">17:52</td>
       </tr>
-
-      <tr>
-      <th scope="row" class="text-start">JERUZA</th>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-success">03:43</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-success">03:43</td>
-      </tr>
-
-
 
   </tbody>
 </table>
 
-<p>Atualizado em 24/04/2024</p>
+<p>Atualizado em 09/05/2024</p>
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
       </main>
