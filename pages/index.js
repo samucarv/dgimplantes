@@ -31,163 +31,152 @@ export default function Home() {
     <tr>
       <th scope="col" class="text-start">Nomes</th>
       <th scope="col">Banco de Horas</th>
-      <th scope="col">Janeiro</th>
-      <th scope="col">Fevereiro</th>
-      <th scope="col">Março</th>
-      <th scope="col">Abril</th>
-      <th scope="col">Maio</th>
-      <th scope="col">Junho</th>
+      <th scope="col">Julho</th>
+      <th scope="col">Agosto</th>
+      <th scope="col">Setembro</th>
+      <th scope="col">Outubro</th>
+      <th scope="col">Novembro</th>
+      <th scope="col">Dezembro</th>
       <th scope="col">Total Acumulado</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row" class="text-start">LUCIANA</th>
-      <td class="text-danger">-68:22</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-danger">-68:22</td> 
-    </tr>
-    <tr>
       <th scope="row" class="text-start">MONICA</th>
-      <td class="text-danger">-14:00</td>
-      <td class="text-success">08:11</td>
-      <td class="text-success">27:53</td>
-      <td class="text-success">11:28</td>
-      <td class="text-success">10:17</td>
-      <td class="text-success">04:12</td>
-      <td class="text-danger">-15:20</td>
+      <td class="text-success">32:41</td> 
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
       <td class="text-success">32:41</td> 
         </tr>
 
     <tr>
       <th scope="row" class="text-start">FABIOLA</th>
-      <td class="text-danger">-64:57</td>
-      <td class="text-danger">-05:00</td>
-      <td class="text-success">07:52</td>
-      <td class="text-danger">-05:12</td>
-      <td class="text-success">01:38</td>
-      <td class="text-danger">-07:23</td>
-      <td class="text-success">03:56</td>
+      <td class="text-danger">-69:06</td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
       <td class="text-danger">-69:06</td>
       </tr>
 
       <tr>
       <th scope="row" class="text-start">ERIKA TAINA</th>
-      <td class="text-success">29:37</td>
-      <td class="text-danger">-01:54</td>
-      <td class="text-success">02:43</td>
-      <td class="text-danger">-03:40</td>
-      <td class="text-success">07:25</td>
-      <td class="text-success">07:34</td>
-      <td class="text-danger">-01:38</td>
+      <td class="text-success">23:07</td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
       <td class="text-success">23:07</td>
       </tr>
 
       <tr>
       <th scope="row" class="text-start">ANDRIA</th>
-      <td class="text-success">43:38</td>
-      <td class="text-danger">-02:38</td>
-      <td class="text-success">10:40</td>
-      <td class="text-success">04:53</td>
-      <td class="text-success">07:42</td>
-      <td class="text-success">00:05</td>
-      <td class="text-danger">-14:30</td>
-      <td class="text-dager">-00:10</td>
+      <td class="text-danger">-00:10</td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td class="text-danger">-00:10</td>
       </tr>
 
       <tr>
       <th scope="row" class="text-start">ANA JULIA</th>
-      <td class="text-danger">-03:40</td>
-      <td class="text-danger">-00:02</td>
-      <td class="text-danger">-09:13</td>
-      <td class="text-success">04:12</td>
-      <td class="text-danger">-08:46</td>
-      <td class="text-danger">-00:41</td>
-      <td class="text-danger">-06:00</td>
+      <td class="text-danger">-24:10</td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
       <td class="text-danger">-24:10</td>
       </tr>
 
       <tr>
       <th scope="row" class="text-start">PRISCILA</th>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-success">14:40</td>
-      <td class="text-danger">-01:04</td>
-      <td class="text-success">13:13</td>
-      <td class="text-danger">-21:47</td>
-      <td class="text-danger">-12:43</td>
+      <td class="text-danger">-07:41</td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
       <td class="text-danger">-07:41</td>
       </tr>
 
       <tr>
       <th scope="row" class="text-start">ANDREIA</th>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-success">05:50</td>
-      <td class="text-success">05:35</td>
-      <td class="text-success">06:27</td>
-      <td class="text-danger">-05:13</td>
-      <td class="text-danger">-01:04</td>
+      <td class="text-success">11:35</td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
       <td class="text-success">11:35</td>
       </tr>
 
       <tr>
       <th scope="row" class="text-start">GISELE</th>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-success">01:07</td>
-      <td class="text-success">00:48</td>
+      <td class="text-success">01:55</td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
       <td class="text-success">01:55</td>
       </tr>
 
       <tr>
       <th scope="row" class="text-start">JULIA</th>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
       <td class="text-danger">-02:25</td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
       <td class="text-danger">-02:25</td>
       </tr>
 
       <tr>
       <th scope="row" class="text-start">LUDMILLA</th>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
       <td class="text-danger">-02:01</td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
       <td class="text-danger">-02:01</td>
       </tr>
 
       <tr>
       <th scope="row" class="text-start">SAMANTHA</th>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
       <td class="text-danger">-02:31</td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
+      <td> 00:00 </td>
       <td class="text-danger">-02:31</td>
       </tr>
 
   </tbody>
 </table>
 
-<p>Atualizado em 02/08/2024</p>
+<p>Atualizado em 13/08/2024</p>
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
       </main>
