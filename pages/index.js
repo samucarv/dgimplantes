@@ -161,18 +161,6 @@ export default function Home() {
       <td class="text-danger">-01:27</td>
       </tr>
 
-      <tr>
-      <th scope="row" class="text-start">SAMANTHA</th>
-      <td class="text-danger">-02:31</td>
-      <td class="text-danger">-20:04</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td>00:00</td>
-      <td class="text-danger">-22:35</td>
-      </tr>
-
   </tbody>
 </table>
 
