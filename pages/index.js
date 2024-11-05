@@ -106,8 +106,8 @@ export default function Home() {
       <th scope="row" class="text-start">HELEUZA</th>
       <td class="text-warning">00:00</td>
       <td class="text-warning">00:00</td>
-      <td class="text-warning">03:31</td>
-      <td class="text-warning">03:35</td>
+      <td class="text-warning">00:00</td>
+      <td class="text-warning">00:00</td>
       <td class="text-danger">-09:56</td>
       <td> 00:00 </td>
       <td> 00:00 </td>
