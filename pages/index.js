@@ -43,14 +43,14 @@ export default function Home() {
               <th scope="col" class="text-start">
                 Nomes
               </th>
-              <th scope="col">Banco de Horas</th>
+              <th scope="col">Total Acumulado</th>
               <th scope="col">Janeiro</th>
               <th scope="col">Fevereiro</th>
               <th scope="col">Março</th>
               <th scope="col">Abril</th>
               <th scope="col">Maio</th>
               <th scope="col">Junho</th>
-              <th scope="col">Total Acumulado</th>
+              <th scope="col">Banco de Horas</th>
             </tr>
           </thead>
           <tbody>
