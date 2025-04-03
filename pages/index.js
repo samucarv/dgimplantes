@@ -61,11 +61,11 @@ export default function Home() {
               <td> 00:00 </td>
               <td class="text-danger">-12:19</td>
               <td class="text-danger">-83:17</td>
-              <td class="text-danger">-73:47</td>
+              <td class="text-danger">-69:15</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td class="text-danger">-169:23</td>
+              <td class="text-danger">-164:51</td>
             </tr>
 
             <tr>
@@ -75,11 +75,11 @@ export default function Home() {
               <td class="text-danger">-11:38</td>
               <td class="text-danger">-08:57</td>
               <td class="text-success">02:38</td>
-              <td class="text-danger">-15:38</td>
+              <td class="text-danger">-11:38</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td class="text-danger">-33:35</td>
+              <td class="text-danger">-29:35</td>
             </tr>
 
             <tr>
@@ -89,11 +89,11 @@ export default function Home() {
               <td class="text-danger">-12:28</td>
               <td class="text-danger">-11:41</td>
               <td class="text-danger">-11:17</td>
-              <td class="text-danger">-10:27</td>
+              <td class="text-danger">-06:27</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td class="text-danger">-45:53</td>
+              <td class="text-danger">-41:53</td>
             </tr>
 
             <tr>
@@ -103,11 +103,11 @@ export default function Home() {
               <td class="text-danger">-15:45</td>
               <td class="text-success">02:54</td>
               <td class="text-danger">-06:14</td>
-              <td class="text-danger">-03:16</td>
+              <td class="text-success">00:44</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td class="text-danger">-22:21</td>
+              <td class="text-danger">-18:21</td>
             </tr>
 
             <tr>
@@ -117,11 +117,11 @@ export default function Home() {
               <td class="text-danger">-40:59</td>
               <td class="text-danger">-17:39</td>
               <td class="text-danger">-16:44</td>
-              <td class="text-danger">-28:26</td>
+              <td class="text-danger">-24:26</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td class="text-danger">-103:48</td>
+              <td class="text-danger">-99:48</td>
             </tr>
 
             <tr>
@@ -131,11 +131,11 @@ export default function Home() {
               <td class="text-success">01:32</td>
               <td class="text-danger">-02:14</td>
               <td class="text-danger">-00:03</td>
-              <td class="text-danger">-00:56</td>
+              <td class="text-success">03:04</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td class="text-danger">-01:41</td>
+              <td class="text-success">02:19</td>
             </tr>
 
             <tr>
@@ -145,11 +145,11 @@ export default function Home() {
               <td class="text-danger">-89:30</td>
               <td class="text-danger">-08:24</td>
               <td class="text-success">09:35</td>
-              <td class="text-danger">-24:11</td>
+              <td class="text-danger">-17:02</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td class="text-danger">-112:30</td>
+              <td class="text-danger">-105:21</td>
             </tr>
 
             <tr>
@@ -159,11 +159,11 @@ export default function Home() {
               <td>00:00</td>
               <td class="text-danger">-01:55</td>
               <td class="text-danger">-03:41</td>
-              <td class="text-success">02:14</td>
+              <td class="text-success">06:14</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td class="text-danger">-03:22</td>
+              <td class="text-success">00:38</td>
             </tr>
           </tbody>
         </table>
