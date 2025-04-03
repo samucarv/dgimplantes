@@ -168,7 +168,7 @@ export default function Home() {
           </tbody>
         </table>
 
-        <p>Atualizado em 02/04/2025</p>
+        <p>Atualizado em 03/04/2025</p>
 
         <script
           src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
