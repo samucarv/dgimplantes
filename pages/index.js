@@ -84,20 +84,6 @@ export default function Home() {
 
             <tr>
               <th scope="row" class="text-start">
-                ERIKA TAINA
-              </th>
-              <td class="text-danger">-12:28</td>
-              <td class="text-danger">-11:41</td>
-              <td class="text-danger">-11:17</td>
-              <td class="text-danger">-22:55</td>
-              <td>00:00</td>
-              <td>00:00</td>
-              <td>00:00</td>
-              <td class="text-danger">-53:53</td>
-            </tr>
-
-            <tr>
-              <th scope="row" class="text-start">
                 GISELE
               </th>
               <td class="text-danger">-15:45</td>
