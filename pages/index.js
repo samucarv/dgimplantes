@@ -137,10 +137,8 @@ export default function Home() {
               <td>00:00</td>
               <td class="text-danger">-32:33</td>
             </tr>
-          </tbody>
-        </table>
 
-        <tr>
+            <tr>
               <th scope="row" class="text-start">
                 EMILLY
               </th>
@@ -154,7 +152,7 @@ export default function Home() {
               <td class="text-success">01:03</td>
             </tr>
 
-        <tr>
+          <tr>
               <th scope="row" class="text-start">
                 GIOVANA
               </th>
@@ -167,6 +165,13 @@ export default function Home() {
               <td class="text-success">13:07</td>
               <td class="text-success">23:46</td>
             </tr>    
+
+
+
+          </tbody>
+        </table>
+
+        
 
         <p>Atualizado em 16/07/2025</p>
 
