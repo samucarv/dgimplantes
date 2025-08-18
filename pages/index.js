@@ -114,7 +114,7 @@ export default function Home() {
               <th scope="row" class="text-start">
                 LUDMILLA
               </th>
-              <td class="text-success">-38:29</td>
+              <td class="text-danger">-38:29</td>
               <td class="text-danger">-28:35</td>
               <td>00:00</td>
               <td>00:00</td>
