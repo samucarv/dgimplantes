@@ -44,12 +44,12 @@ export default function Home() {
                 Nomes
               </th>
               <th scope="col">Total Acumulado</th>
-              <th scope="col">Janeiro</th>
-              <th scope="col">Fevereiro</th>
-              <th scope="col">Março</th>
-              <th scope="col">Abril</th>
-              <th scope="col">Maio</th>
-              <th scope="col">Junho</th>
+              <th scope="col">Julho</th>
+              <th scope="col">Agosto</th>
+              <th scope="col">Setembro</th>
+              <th scope="col">Outubro</th>
+              <th scope="col">Novembro</th>
+              <th scope="col">Dezembro</th>
               <th scope="col">Banco de Horas</th>
             </tr>
           </thead>
@@ -59,7 +59,7 @@ export default function Home() {
                 ANA KAROLYNE
               </th>
               <td> 00:00 </td>
-              <td> 00:00 </td>
+              <td class="text-success"> 23:47 </td>
               <td> 00:00 </td>
               <td> 00:00 </td>
               <td> 00:00 </td>
@@ -172,6 +172,7 @@ export default function Home() {
         </table>
 
         
+
 
         <p>Atualizado em 18/08/2025</p>
 
