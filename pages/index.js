@@ -54,88 +54,33 @@ export default function Home() {
             </tr>
           </thead>
           <tbody>
-            <tr>
-              <th scope="row" class="text-start">
-                ANA KAROLYNE
-              </th>
-              <td> 00:00 </td>
-              <td class="text-success"> 23:47 </td>
-              <td> 00:00 </td>
-              <td> 00:00 </td>
-              <td> 00:00 </td>
-              <td> 00:00 </td>
-              <td> 00:00 </td>
-              <td> 00:00 </td>
-            </tr>
-
+            
             <tr>
               <th scope="row" class="text-start">
                 ANDREIA
               </th>
               <td class="text-danger">-33:35</td>
               <td class="text-success">05:23</td>
+              <td class="text-success">04:32</td>
+              <td class="text-success">12:21</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td>00:00</td>
-              <td>00:00</td>
-              <td class="text-danger">-28:12</td>
+              <td class="text-danger">-11:33</td>
             </tr>
 
             <tr>
               <th scope="row" class="text-start">
-                GISELE
+                BEATRIZ
               </th>
-              <td class="text-danger">-28:58</td>
-              <td class="text-success">07:04</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td>00:00</td>
-              <td>00:00</td>
-              <td class="text-danger">-21:54</td>
-            </tr>
-
-            <tr>
-              <th scope="row" class="text-start">
-                ELEUZA
-              </th>
-              <td class="text-danger">-178:09</td>
-              <td class="text-danger">-07:21</td>
+              <td class="text-danger">-00:46</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td>00:00</td>
-              <td>00:00</td>
-              <td class="text-danger">-185:30</td>
-            </tr>
-
-            <tr>
-              <th scope="row" class="text-start">
-                LUDMILLA
-              </th>
-              <td class="text-danger">-38:29</td>
-              <td class="text-danger">-28:35</td>
-              <td>00:00</td>
-              <td>00:00</td>
-              <td>00:00</td>
-              <td>00:00</td>
-              <td>00:00</td>
-              <td class="text-danger">-67:04</td>
-            </tr>
-
-            <tr>
-              <th scope="row" class="text-start">
-                VITORIA
-              </th>
-              <td class="text-danger">-32:33</td>
-              <td class="text-danger">-06:18</td>
-              <td>00:00</td>
-              <td>00:00</td>
-              <td>00:00</td>
-              <td>00:00</td>
-              <td>00:00</td>
-              <td class="text-danger">-38:51</td>
+              <td class="text-danger">-00:46</td>
             </tr>
 
             <tr>
@@ -144,29 +89,97 @@ export default function Home() {
               </th>
               <td class="text-success">01:03</td>
               <td class="text-success">07:17</td>
+              <td class="text-success">09:48</td>
+              <td class="text-danger">-00:34</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td>00:00</td>
-              <td>00:00</td>
-              <td class="text-success">08:20</td>
+              <td class="text-success">17:34</td>
             </tr>
 
-          <tr>
+            <tr>
               <th scope="row" class="text-start">
                 GIOVANA
               </th>
               <td class="text-success">23:46</td>
               <td class="text-success">15:10</td>
+              <td class="text-success">07:42</td>
+              <td class="text-success">18:30</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td>00:00</td>
-              <td>00:00</td>
-              <td class="text-success">38:56</td>
+              <td class="text-success">65:08</td>
             </tr>    
 
+            <tr>
+              <th scope="row" class="text-start">
+                GISELE
+              </th>
+              <td class="text-danger">-28:58</td>
+              <td class="text-success">07:04</td>
+              <td class="text-danger">-05:49</td>
+              <td class="text-danger">-06:43</td>
+              <td>00:00</td>
+              <td>00:00</td>
+              <td>00:00</td>
+              <td class="text-danger">-34:26</td>
+            </tr>
 
+            <tr>
+              <th scope="row" class="text-start">
+                HELEUZA
+              </th>
+              <td class="text-danger">-178:09</td>
+              <td class="text-danger">-07:21</td>
+              <td class="text-danger">-04:54</td>
+              <td class="text-danger">-01:32</td>
+              <td>00:00</td>
+              <td>00:00</td>
+              <td>00:00</td>
+              <td class="text-danger">-191:56</td>
+            </tr>
+
+            <tr>
+              <th scope="row" class="text-start">
+                MARIA EDUARDA
+              </th>
+              <td>00:00</td>
+              <td>00:00</td>
+              <td class="text-success">05:21</td>
+              <td class="text-success">08:14</td>
+              <td>00:00</td>
+              <td>00:00</td>
+              <td>00:00</td>
+              <td class="text-success">13:35</td>
+            </tr>
+
+            <tr>
+              <th scope="row" class="text-start">
+                MONICA
+              </th>
+              <td>00:00</td>
+              <td class="text-success">06:24</td>
+              <td class="text-success">00:32</td>
+              <td class="text-success">11:15</td>
+              <td>00:00</td>
+              <td>00:00</td>
+              <td>00:00</td>
+              <td class="text-success">18:11</td>
+            </tr>
+
+            <tr>
+              <th scope="row" class="text-start">
+                SYGRID
+              </th>
+              <td>00:00</td>
+              <td>00:00</td>
+              <td>00:00</td>
+              <td class="text-success">05:02</td>
+              <td>00:00</td>
+              <td>00:00</td>
+              <td>00:00</td>
+              <td class="text-success">05:02</td>
+            </tr>
 
           </tbody>
         </table>
@@ -174,7 +187,7 @@ export default function Home() {
         
 
 
-        <p>Atualizado em 18/08/2025</p>
+        <p>Atualizado em 22/10/2025</p>
 
         <script
           src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
