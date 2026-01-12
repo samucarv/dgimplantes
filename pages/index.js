@@ -94,7 +94,7 @@ export default function Home() {
               <td class="text-success">15:32</td>
               <td class="text-success">13:35</td>
               <td class="text-success">06:58</td>
-              <td class="text-success">101:13</td>
+              <td class="text-success">21:13</td>
             </tr>    
 
             <tr>
@@ -201,7 +201,7 @@ export default function Home() {
         
 
 
-        <p>Atualizado em 07/01/2026</p>
+        <p>Atualizado em 12/01/2026</p>
 
         <script
           src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
