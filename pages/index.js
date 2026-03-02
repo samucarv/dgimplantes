@@ -57,6 +57,21 @@ export default function Home() {
             
             <tr>
               <th scope="row" class="text-start">
+                ALINE
+              </th>
+              <td>00:00</td>
+              <td class="text-success">04:02</td>
+              <td>00:00</td>
+              <td>00:00</td>
+              <td>00:00</td>
+              <td>00:00</td>
+              <td>00:00</td>
+              <td class="text-success">04:02</td>
+            </tr>
+
+
+            <tr>
+              <th scope="row" class="text-start">
                 ANDREIA
               </th>
               <td class="text-success">23:17</td>
@@ -68,6 +83,21 @@ export default function Home() {
               <td>00:00</td>
               <td class="text-success">28:10</td>
             </tr>
+
+            <tr>
+              <th scope="row" class="text-start">
+                DANIELE
+              </th>
+              <td>00:00</td>
+              <td class="text-success">03:28</td>
+              <td>00:00</td>
+              <td>00:00</td>
+              <td>00:00</td>
+              <td>00:00</td>
+              <td>00:00</td>
+              <td class="text-success">03:28</td>
+            </tr>
+
 
             <tr>
               <th scope="row" class="text-start">
@@ -111,6 +141,19 @@ export default function Home() {
               <td class="text-success">34:45</td>
             </tr>
 
+            <tr>
+              <th scope="row" class="text-start">
+                JUSCILEIDE
+              </th>
+              <td>00:00</td>
+              <td class="text-success">11:12</td>
+              <td>00:00</td>
+              <td>00:00</td>
+              <td>00:00</td>
+              <td>00:00</td>
+              <td>00:00</td>
+              <td class="text-success">11:12</td>
+            </tr>
             <tr>
               <th scope="row" class="text-start">
                 MARCELA
@@ -173,7 +216,7 @@ export default function Home() {
         
 
 
-        <p>Atualizado em 27/02/2026</p>
+        <p>Atualizado em 02/03/2026</p>
 
         <script
           src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
