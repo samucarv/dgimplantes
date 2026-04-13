@@ -61,12 +61,12 @@ export default function Home() {
               </th>
               <td>00:00</td>
               <td class="text-success">04:02</td>
-              <td class="text-success">01:07</td>
+              <td class="text-danger">-10:53</td>
               <td class="text-success">01:30</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td class="text-success">06:39</td>
+              <td class="text-danger">-05:21</td>
             </tr>
 
 
@@ -76,12 +76,12 @@ export default function Home() {
               </th>
               <td class="text-success">23:17</td>
               <td class="text-success">04:53</td>
-              <td class="text-success">00:06</td>
+              <td class="text-danger">-11:54</td>
               <td class="text-danger">-02:56</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td class="text-success">25:20</td>
+              <td class="text-success">13:20</td>
             </tr>
 
             <tr>
@@ -90,12 +90,12 @@ export default function Home() {
               </th>
               <td>00:00</td>
               <td class="text-success">03:28</td>
-              <td class="text-danger">-03:49</td>
+              <td class="text-danger">-15:49</td>
               <td class="text-danger">-03:31</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td class="text-danger">-03:52</td>
+              <td class="text-danger">-15:52</td>
             </tr>
 
 
@@ -105,12 +105,12 @@ export default function Home() {
               </th>
               <td class="text-danger">-03:01</td>
               <td class="text-success">01:01</td>
-              <td class="text-success">06:58</td>
+              <td class="text-danger">-05:02</td>
               <td class="text-success">10:12</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td class="text-success">15:10</td>
+              <td class="text-success">03:10</td>
             </tr>
 
             <tr>
@@ -119,12 +119,12 @@ export default function Home() {
               </th>
               <td class="text-success">21:13</td>
               <td class="text-success">05:01</td>
-              <td class="text-danger">-05:09</td>
+              <td class="text-danger">-17:09</td>
               <td class="text-success">12:20</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td class="text-success">33:25</td>
+              <td class="text-success">21:25</td>
             </tr>    
 
             <tr>
@@ -133,12 +133,12 @@ export default function Home() {
               </th>
               <td class="text-success">25:29</td>
               <td class="text-success">09:16</td>
-              <td class="text-success">06:54</td>
+              <td class="text-danger">05:06</td>
               <td class="text-success">12:37</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td class="text-success">54:16</td>
+              <td class="text-success">42:16</td>
             </tr>
 
             <tr>
@@ -147,12 +147,12 @@ export default function Home() {
               </th>
               <td>00:00</td>
               <td class="text-success">11:12</td>
-              <td class="text-success">04:37</td>
+              <td class="text-danger">-07:23</td>
               <td class="text-success">10:56</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td class="text-success">26:45</td>
+              <td class="text-success">14:45</td>
             </tr>
             <tr>
               <th scope="row" class="text-start">
@@ -160,12 +160,12 @@ export default function Home() {
               </th>
               <td class="text-success">07:20</td>
               <td class="text-success">06:20</td>
-              <td class="text-success">03:01</td>
+              <td class="text-danger">-08:59</td>
               <td class="text-danger">-14:23</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td class="text-success">02:18</td>
+              <td class="text-danger">-09:42</td>
             </tr>
 
             <tr>
@@ -188,12 +188,12 @@ export default function Home() {
               </th>
               <td class="text-success">28:12</td>
               <td class="text-success">03:54</td>
-              <td class="text-danger">-00:19</td>
+              <td class="text-danger">-12:19</td>
               <td class="text-success">01:15</td>
               <td>00:00</td> 
               <td>00:00</td>
               <td>00:00</td>
-              <td class="text-success">33:02</td>
+              <td class="text-success">21:02</td>
             </tr>
 
             <tr>
@@ -202,12 +202,12 @@ export default function Home() {
               </th>
               <td class="text-danger">-47:25</td>
               <td class="text-success">06:17</td>
-              <td class="text-success">07:04</td>
+              <td class="text-danger">-04:56</td>
               <td class="text-success">13:20</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td class="text-danger">-20:44</td>
+              <td class="text-danger">-32:44</td>
             </tr>
 
             <tr>
@@ -216,12 +216,12 @@ export default function Home() {
               </th>
               <td class="text-success">28:03</td>
               <td class="text-success">10:36</td>
-              <td class="text-success">03:15</td>
+              <td class="text-danger">-08:45</td>
               <td class="text-danger">-11:57</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td class="text-success">29:57</td>
+              <td class="text-success">17:57</td>
             </tr>
 
           </tbody>
@@ -230,7 +230,7 @@ export default function Home() {
         
 
 
-        <p>Atualizado em 09/04/2026</p>
+        <p>Atualizado em 13/04/2026</p>
 
         <script
           src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
