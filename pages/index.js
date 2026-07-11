@@ -59,7 +59,6 @@ export default function Home() {
               <th scope="row" class="text-start">
                 ALINE
               </th>
-              <td>00:00</td>
               <td class="text-danger">-05:38</td>
               <td class="text-success">04:02</td>
               <td>00:00</td>
@@ -74,7 +73,6 @@ export default function Home() {
               <th scope="row" class="text-start">
                 DANIELE
               </th>
-              <td>00:00</td>
               <td class="text-danger">-57:02</td>
               <td class="text-danger">-22:36</td>
               <td>00:00</td>
