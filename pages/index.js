@@ -103,13 +103,13 @@ export default function Home() {
                 GIOVANA
               </th>
               <td class="text-success">09:01</td>
-              <td class="text-success">01:11</td>
+              <td class="text-success">09:11</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td class="text-success">10:12</td>
+              <td class="text-success">18:12</td>
             </tr>    
 
             <tr>
@@ -145,13 +145,13 @@ export default function Home() {
                 MARCELA
               </th>
               <td class="text-danger">-64:38</td>
-              <td class="text-danger">-06:43</td>
+              <td class="text-success">05:17</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td class="text-danger">-71:21</td>
+              <td class="text-danger">-59:21</td>
             </tr>
 
             <tr>
@@ -159,13 +159,13 @@ export default function Home() {
                 MARIA DE LOURDES
               </th>
               <td class="text-success">11:39</td>
-              <td class="text-success">02:12</td>
+              <td class="text-success">10:12</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td class="text-success">13:51</td>
+              <td class="text-success">21:51</td>
             </tr>
 
             <tr>
@@ -217,7 +217,7 @@ export default function Home() {
         
 
 
-        <p>Atualizado em 11/07/2026</p>
+        <p>Atualizado em 13/07/2026</p>
 
         <script
           src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
