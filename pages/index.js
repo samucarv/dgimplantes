@@ -61,28 +61,13 @@ export default function Home() {
               </th>
               <td class="text-danger">-01:36</td>
               <td class="text-danger">-01:20</td>
+              <td class="text-success">01:44</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td>00:00</td>
-              <td class="text-danger">-02:56</td>
+              <td class="text-danger">-01:12</td>
             </tr>
-
-            <tr>
-              <th scope="row" class="text-start">
-                DANIELE
-              </th>
-              <td class="text-danger">-68:21</td>
-              <td class="text-danger">-09:36</td>
-              <td>00:00</td>
-              <td>00:00</td>
-              <td>00:00</td>
-              <td>00:00</td>
-              <td>00:00</td>
-              <td class="text-danger">-77:57</td>
-            </tr>
-
 
             <tr>
               <th scope="row" class="text-start">
@@ -90,12 +75,12 @@ export default function Home() {
               </th>
               <td class="text-success">14:49</td>
               <td class="text-success">07:59</td>
+              <td class="text-success">06:07</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td>00:00</td>
-              <td class="text-success">22:48</td>
+              <td class="text-success">28:55</td>
             </tr>
 
             <tr>
@@ -104,12 +89,12 @@ export default function Home() {
               </th>
               <td class="text-success">18:12</td>
               <td class="text-danger">-03:38</td>
+              <td class="text-success">07:26</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td>00:00</td>
-              <td class="text-success">14:34</td>
+              <td class="text-success">22:00</td>
             </tr>    
 
             <tr>
@@ -118,12 +103,12 @@ export default function Home() {
               </th>
               <td class="text-success">28:42</td>
               <td class="text-danger">-00:28</td>
+              <td class="text-success">02:17</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td>00:00</td>
-              <td class="text-success">28:14</td>
+              <td class="text-success">30:31</td>
             </tr>
 
             <tr>
@@ -132,12 +117,12 @@ export default function Home() {
               </th>
               <td class="text-success">08:36</td>
               <td class="text-danger">-01:02</td>
+              <td class="text-danger">-01:06</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td>00:00</td>
-              <td class="text-success">07:34</td>
+              <td class="text-success">06:28</td>
             </tr>
 
             <tr>
@@ -146,12 +131,26 @@ export default function Home() {
               </th>
               <td class="text-danger">-59:21</td>
               <td class="text-success">15:01</td>
+              <td class="text-success">05:48</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
+              <td class="text-danger">-38:32</td>
+            </tr>
+
+            <tr>
+              <th scope="row" class="text-start">
+                MARIA BEATRIZ
+              </th>
               <td>00:00</td>
-              <td class="text-danger">-44:20</td>
+              <td>00:00</td>
+              <td class="text-success">07:10</td>
+              <td>00:00</td>
+              <td>00:00</td>
+              <td>00:00</td>
+              <td>00:00</td>
+              <td class="text-success">07:10</td>
             </tr>
 
             <tr>
@@ -160,13 +159,15 @@ export default function Home() {
               </th>
               <td class="text-success">21:51</td>
               <td class="text-danger">-00:25</td>
+              <td class="text-danger">-00:28</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td>00:00</td>
-              <td class="text-success">21:26</td>
+              <td class="text-success">20:58</td>
             </tr>
+
+      
 
             <tr>
               <th scope="row" class="text-start">
@@ -174,12 +175,12 @@ export default function Home() {
               </th>
               <td class="text-success">04:21</td>
               <td class="text-danger">-01:58</td>
+              <td class="text-success">01:40</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td>00:00</td>
-              <td class="text-success">02:23</td>
+              <td class="text-success">04:03</td>
             </tr>
 
             <tr>
@@ -188,12 +189,26 @@ export default function Home() {
               </th>
               <td class="text-danger">-08:02</td>
               <td class="text-success">08:57</td>
+              <td class="text-success">02:13</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
+              <td class="text-success">03:08</td>
+            </tr>
+
+            <tr>
+              <th scope="row" class="text-start">
+                PAULA MICHELLE
+              </th>
               <td>00:00</td>
-              <td class="text-success">00:55</td>
+              <td>00:00</td>
+              <td class="text-success">12:57</td>
+              <td>00:00</td>
+              <td>00:00</td>
+              <td>00:00</td>
+              <td>00:00</td>
+              <td class="text-success">12:57</td>
             </tr>
 
             <tr>
@@ -202,12 +217,12 @@ export default function Home() {
               </th>
               <td class="text-danger">-05:05</td>
               <td class="text-success">08:09</td>
+              <td class="text-success">02:34</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
               <td>00:00</td>
-              <td>00:00</td>
-              <td class="text-success">03:04</td>
+              <td class="text-success">05:38</td>
             </tr>
 
 
@@ -217,7 +232,7 @@ export default function Home() {
         
 
 
-        <p>Atualizado em 28/08/2026</p>
+        <p>Atualizado em 15/05/2026</p>
 
         <script
           src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
