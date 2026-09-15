@@ -232,7 +232,7 @@ export default function Home() {
         
 
 
-        <p>Atualizado em 15/05/2026</p>
+        <p>Atualizado em 15/09/2026</p>
 
         <script
           src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
